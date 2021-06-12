@@ -1,0 +1,4 @@
+baseURL = "https://sbouts.github.io"
+languageCode = "en-us"
+title = "Stefan's Notepad"
+theme = "PaperMod"
